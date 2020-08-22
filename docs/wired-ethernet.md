@@ -18,8 +18,8 @@ Network connection can be made with a standard Ethernet cable. For new installat
 
 |Signal        | Pin No.   | EVSE connector |
 | :---------- | :---------- | :------------------- |
-5V             | pin 1        | Red wire |
-GND            | pin 2        | Black wire | 
+5V             | pin 20        | Red wire |
+GND            | pin 19        | Black wire | 
 Tx GPIO 32     | pin 13       | Yellow wire |
 Rx GPIO 16     | pin 11       | Green wire |
 
